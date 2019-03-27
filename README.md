@@ -8,9 +8,9 @@
   -
   <a href="#discord-server">Server</a>
   -
-  <a href="#license">License</a> 
+  <a href="#default-config">Config</a> 
    -
-   <a href="#default-config">Config</a>
+   <a href="#license">License</a>
 </p>
 
 # Description
@@ -28,7 +28,11 @@ To use this bot just clone or download the repo, make an app [here](https://disc
 # Discord server
 >[Join Now!](https://discord.gg/xuaDubj)
 
-
+# Default config
+| Name | Info |
+|:------:|:------:|
+|Prefix|!|
+|Embed color|RANDOM|
 
 # License
 
@@ -39,12 +43,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
 *Copyright © 2019 Snails All rights reserved.*
-
-# Default config
-| Name | Info |
-|:------:|:------:|
-|Prefix|!|
-|Embed color|RANDOM|
 
 ---
 <h4 align="center" id="ol">Other links</h4>
