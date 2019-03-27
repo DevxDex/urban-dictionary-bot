@@ -7,8 +7,7 @@
 *Copyright © 2019 Snails All rights reserved.*
 
 
-| OOF  |
-|------|
-|      |
-|      |
-| anus |
+| Commands | Description |
+|----------|-------------|
+|  define  | Defines a word|
+
