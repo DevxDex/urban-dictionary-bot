@@ -44,3 +44,11 @@
 |Embed color|RANDOM|
 >That's everything you need, have fun!
 ---
+<h4 align="center">Other links</h4>
+<p align="center">
+   <a href="https://www.youtube.com/Snailsxd">Youtube</a>
+   -
+   <a href="https://www.twitter.com/zSnails">Twitter</a>
+   -
+   <a href="https://github.com/zSnails">GitHub</a>
+   </p>
