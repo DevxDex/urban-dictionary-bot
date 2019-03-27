@@ -1,4 +1,4 @@
-<h1 align="center">Urban Dictionary</h1>
+<h1 align="center">Urban Dictionary BOT</h1>
 <p align="center">
    <a href="#description">Description</a>
   -
