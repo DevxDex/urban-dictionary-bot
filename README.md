@@ -20,8 +20,8 @@
 # Commands
 
 | Commands | Description |
-|----------|-------------|
-|  define  | Defines a word|
+|:----------:|:-------------:|
+|define|Defines a word|
 
 # Discord server
 >[Join Now!](https://discord.gg/xuaDubj)
@@ -37,4 +37,10 @@
 
 >THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
+# Default config
+| Name | Info |
+|:------:|:------:|
+|Prefix|!|
+|Embed color|RANDOM|
+>That's everything you need, have fun!
 ---
