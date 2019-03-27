@@ -4,7 +4,8 @@
   "description": "<h1 align=\"center\">Urban Dictionary BOT</h1>\r <p align=\"center\">\r    <a href=\"#description\">Description</a>\r   -\r   <a href=\"#instalation\">Instalation</a>\r   -\r   <a href=\"#commands\">Command chart</a>\r   -\r   <a href=\"#discord-server\">Server</a>\r   -\r   <a href=\"#default-config\">Config</a> \r    -\r    <a href=\"#license\">License</a>\r </p>",
   "main": "ud.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node ud.js"
   },
   "repository": {
     "type": "git",
