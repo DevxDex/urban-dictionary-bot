@@ -1,0 +1,23 @@
+{
+  "name": "urban-dictionary-bot",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Urban Dictionary BOT</h1>\r <p align=\"center\">\r    <a href=\"#description\">Description</a>\r   -\r   <a href=\"#instalation\">Instalation</a>\r   -\r   <a href=\"#commands\">Command chart</a>\r   -\r   <a href=\"#discord-server\">Server</a>\r   -\r   <a href=\"#default-config\">Config</a> \r    -\r    <a href=\"#license\">License</a>\r </p>",
+  "main": "ud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zSnails/urban-dictionary-bot.git"
+  },
+  "author": "zSnails#5755",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zSnails/urban-dictionary-bot/issues"
+  },
+  "homepage": "https://github.com/zSnails/urban-dictionary-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "relevant-urban": "^2.0.0"
+  }
+}
