@@ -11,7 +11,6 @@
 |  define  | Defines a word|
 
 # Discord server
-> [Join Now!](https://discord.gg/xuaDubj)
-
+>[Join Now!](https://discord.gg/xuaDubj)
 *Copyright © 2019 Snails All rights reserved.*
 ---
