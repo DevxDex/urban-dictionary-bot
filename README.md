@@ -23,7 +23,7 @@ To use this bot just clone or download the repo, make an app [here](https://disc
 
 | Name | Description | Usage |
 |:----------:|:-------------:|:------:|
-|define|Defines a word|Use *!define <word>* to define a word (duh)|
+|define|Defines a word|Use *!define (word)* to define a word (duh)|
 
 # Discord server
 >[Join Now!](https://discord.gg/xuaDubj)
