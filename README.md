@@ -21,9 +21,9 @@ To use this bot just clone or download the repo, make an app [here](https://disc
 
 # Commands
 
-| Commands | Description |
-|:----------:|:-------------:|
-|define|Defines a word|
+| Name | Description | Usage |
+|:----------:|:-------------:|:------:|
+|define|Defines a word|Use *!define <word>* to define a word (duh)|
 
 # Discord server
 >[Join Now!](https://discord.gg/xuaDubj)
