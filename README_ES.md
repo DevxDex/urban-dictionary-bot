@@ -49,11 +49,11 @@ EL SOFTWARE SE PROPORCIONA "COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA 
 <a href="https://www.youtube.com/Snailsxd">
   <img src="https://img.shields.io/badge/YouTube-red.svg">
 </a>
-   -
+   <>
    <a href="https://www.twitter.com/zSnails">
      <img src="https://img.shields.io/badge/Twitter-blue.svg">
    </a>
-   -
+   <>
    <a href="https://www.github.com/zSnails">
      <img src="https://img.shields.io/badge/Git-Hub-orange.svg">
    </a>
