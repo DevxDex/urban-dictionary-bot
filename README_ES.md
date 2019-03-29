@@ -1,4 +1,17 @@
 <h1 align="center"> Urban Dictionary BOT </h1>
+<p align="center">
+  <a href="#descripción">Descripción</a>
+  -
+  <a href="#instalación">Instalación</a>
+  -
+  <a href="#comandos">Comandos</a>
+  -
+  <a href="#servidor-de-discord">Discord</a>
+  -
+  <a href="configuración-por-defecto">Configuración</a>
+  -
+  <a href="#licencia">Licencia</a>
+  </p>
 
 # Descripción
 Este es un bot de codigo abierto que hice para conseguir definiciones (Algunas pueden ser NSFW)
