@@ -44,7 +44,7 @@ EL SOFTWARE SE PROPORCIONA "COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA 
 
 ---
 
-<h4 align="center" id="ol">Other links</h4>
+<h4 align="center" id="ol">Otros Enlaces</h4>
 <p align="center">
    <a href="https://www.youtube.com/Snailsxd">Youtube</a>
    -
