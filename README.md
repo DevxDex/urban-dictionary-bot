@@ -8,7 +8,7 @@
   -
   <a href="#discord-server">Server</a>
   -
-  <a href="#default-config">Config</a> 
+  <a href="#default-config">Config</a>
    -
    <a href="#license">License</a>
    -
@@ -50,9 +50,15 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ---
 <h4 align="center" id="ol">Other links</h4>
 <p align="center">
-   <a href="https://www.youtube.com/Snailsxd">Youtube</a>
+<a href="https://www.youtube.com/Snailsxd">
+  <img src="https://img.shields.io/badge/YouTube-red.svg">
+</a>
    -
-   <a href="https://www.twitter.com/zSnails">Twitter</a>
+   <a href="https://www.twitter.com/zSnails">
+     <img src="https://img.shields.io/badge/Twitter-blue.svg">
+   </a>
    -
-   <a href="https://github.com/zSnails">GitHub</a>
+   <a href="https://www.github.com/zSnails">
+     <img src="https://img.shields.io/badge/Git-Hub-orange.svg">
+   </a>
    </p>
