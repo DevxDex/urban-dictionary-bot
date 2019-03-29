@@ -11,7 +11,10 @@
   <a href="#default-config">Config</a> 
    -
    <a href="#license">License</a>
+   -
+   <a href="https://github.com/zSnails/urban-dictionary-bot/blob/master/README_ES.md">Español</a>
 </p>
+
 
 # Description
 This is an open source bot that I made to get definitons (Some may be NSFW)
