@@ -2,6 +2,7 @@ const Discord = require("discord.js");
 const config = require("../config.json");
 const ud = require("relevant-urban");
 exports.run = async(client, message, args, discord) => {
+  if (!message.channel.nsfw) return message.channel.send("You can only send messages in a NSFW marked channel.")
 let worder = args[0];
 if(!worder) return message.channel.send("Specify a word")
 let defin = await ud(args.join(' ')).catch(e => {
