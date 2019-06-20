@@ -17,7 +17,7 @@
 <h2 align="center">Description</h2>
 <p align="center">This is an open source bot that I made to get definitons (Some may be NSFW)</p>
 
-<h2 align="center">Instalation</h2>
+<h2 align="center">Installation</h2>
 <p align-"center">To use this bot just clone or download the repo, make an app <a href="https://discordapp.com/developers">here</a> (if you already made one just use that) get your bot's token and change the token in config.json (if you're going to host this in heroku or glitch just use the .env process) run a CLI(command line) in the folder and type `npm start` or `node ud.js`, if the bot doesn't work you can ask for support <a href="https://discord.gg/xuaDubj">here</a></p>
 
 <h2 align="center">Commands</h2>
